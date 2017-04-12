@@ -1,0 +1,10 @@
+D:\GamesCsharp\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+D:\GamesCsharp\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+D:\GamesCsharp\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+D:\GamesCsharp\SpeechRecognition\SpeechRecognition\bin\Debug\Microsoft.Speech.dll
+D:\GamesCsharp\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csprojResolveAssemblyReference.cache
+D:\GamesCsharp\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Form1.resources
+D:\GamesCsharp\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+D:\GamesCsharp\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.Cache
+D:\GamesCsharp\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+D:\GamesCsharp\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
